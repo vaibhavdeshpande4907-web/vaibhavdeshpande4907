@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@piyush-devx](https://github.com/vaibhav-devx10)
+- 💻 GitHub: [@vaibhav-devx](https://github.com/vaibhav-devx10)
 - 🔗 LinkedIn: [vaibbhav deshpande](https://www.linkedin.com/in/vaibhav-deshpande -8192b234a/)
 
 ---
